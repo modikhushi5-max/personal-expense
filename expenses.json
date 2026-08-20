@@ -1,0 +1,51 @@
+[
+    {
+        "expense_id": "E003",
+        "date": "15-08-2026",
+        "category": "Shopping",
+        "description": "purchases new phone",
+        "amount": 40000.0
+    },
+    {
+        "expense_id": "E004",
+        "date": "17-08-2026",
+        "category": "Health",
+        "description": "purchase medicine",
+        "amount": 1200.0
+    },
+    {
+        "expense_id": "E005",
+        "date": "18-08-2026",
+        "category": "Food",
+        "description": "grocasry time",
+        "amount": 1050.0
+    },
+    {
+        "expense_id": "E006",
+        "date": "07-08-2026",
+        "category": "Travel",
+        "description": "metro card recharge",
+        "amount": 800.0
+    },
+    {
+        "expense_id": "E007",
+        "date": "20-08-2026",
+        "category": "Food",
+        "description": "purchases some packet food",
+        "amount": 500.0
+    },
+    {
+        "expense_id": "E008",
+        "date": "20-08-2026",
+        "category": "Education",
+        "description": "college fees",
+        "amount": 18100.0
+    },
+    {
+        "expense_id": "E009",
+        "date": "20-08-2026",
+        "category": "Travel",
+        "description": "bus",
+        "amount": 210.0
+    }
+]
